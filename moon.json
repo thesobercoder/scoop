@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/moonrepo/moon/releases/download/v1.12.0/moon-x86_64-pc-windows-msvc.exe#/moon.exe",
-      "hash": "e8fc49738b4e20af0fb03a54aec7a48858f794473272fcd97e869d1d7eefa674"
+      "hash": "c3ecbe013cd0741947b9d0948a88dec4e28cf8e3165c5accb20e3319e82a8010"
     }
   },
   "bin": "moon.exe",
